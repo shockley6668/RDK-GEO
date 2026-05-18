@@ -1,0 +1,762 @@
+{
+  "total": 50,
+  "skills": [
+    {
+      "rank": 1,
+      "slug": "xiaohongshu-mcp",
+      "name": "Xiaohongshu (小红书) Automation",
+      "description": "Automate Xiaohongshu (RedNote) content operations using a Python client for the xiaohongshu-mcp server. Use for: (1) Publishing image, text, and video content, (2) Searching for notes and trends, (3) Analyzing post details and comments, (4) Managing user profiles and content feeds. Triggers: xiaohongshu automation, rednote content, publish to xiaohongshu, xiaohongshu search, social media management.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/xiaohongshu-mcp",
+      "downloads": 7835,
+      "stars": 18,
+      "score": 35,
+      "categories": [
+        "中国app相关",
+        "搜索研究",
+        "AI增强",
+        "浏览器自动化",
+        "DevOps",
+        "知识管理",
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "xhs",
+      "name": "小红书 - RedNote",
+      "description": "小红书全能助手 — 文案生成、封面制作、内容发布与管理。当用户要求写小红书笔记、生成小红书文案/标题/封面、发小红书、搜索小红书、评论点赞收藏等任何小红书相关操作时使用。支持一站式从文案创作到自动发布的完整流程。封面AI生图需配置可选环境变量（GEMINI_API_KEY 或 IMG_API_KEY 或 HUNY...",
+      "version": "1.2.5",
+      "homepage": "https://clawhub.ai/xhs",
+      "downloads": 4039,
+      "stars": 17,
+      "score": 10,
+      "categories": [
+        "中国app相关",
+        "AI增强",
+        "知识管理"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "xiaohongshutools",
+      "name": "小红书",
+      "description": "XiaoHongShu (Little Red Book) data collection and interaction toolkit. Use when working with XiaoHongShu (小红书) platform for: (1) Searching and scraping notes/posts, (2) Getting user profiles and details, (3) Extracting comments and likes, (4) Following users and liking posts, (5) Fetching home feed and trending content. Automatically handles all encryption parameters (cookies, headers) including a1, webId, x-s, x-s-common, x-t, sec_poison_id, websectiga, gid, x-b3-traceid, x-xray-traceid. Supports guest mode and authenticated sessions via web_session cookie.",
+      "version": "0.1.0",
+      "homepage": "https://clawhub.ai/xiaohongshutools",
+      "downloads": 3144,
+      "stars": 7,
+      "score": 10,
+      "categories": [
+        "中国app相关",
+        "搜索研究",
+        "AI增强",
+        "浏览器自动化",
+        "知识管理"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "github",
+      "name": "Github",
+      "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/github",
+      "downloads": 58751,
+      "stars": 198,
+      "score": 85,
+      "categories": [
+        "DevOps"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "openai-whisper",
+      "name": "Openai Whisper",
+      "description": "Local speech-to-text with the Whisper CLI (no API key).",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/openai-whisper",
+      "downloads": 27271,
+      "stars": 142,
+      "score": 85,
+      "categories": [
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "ontology",
+      "name": "Ontology",
+      "description": "Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linking related objects, enforcing constraints, planning multi-step actions as graph transformations, or when skills need to share state. Trigger on \"remember\", \"what do I know about\", \"link X to Y\", \"show dependencies\", entity CRUD, or cross-skill data access.",
+      "version": "0.1.2",
+      "homepage": "https://clawhub.ai/ontology",
+      "downloads": 91217,
+      "stars": 224,
+      "score": 80,
+      "categories": [
+        "办公协同",
+        "AI增强",
+        "DevOps",
+        "知识管理"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "gog",
+      "name": "Gog",
+      "description": "Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/gog",
+      "downloads": 75474,
+      "stars": 593,
+      "score": 80,
+      "categories": [
+        "办公协同",
+        "搜索研究",
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "tavily-search",
+      "name": "Tavily Web Search",
+      "description": "AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/tavily-search",
+      "downloads": 71799,
+      "stars": 320,
+      "score": 80,
+      "categories": [
+        "搜索研究",
+        "AI增强",
+        "DevOps"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "summarize",
+      "name": "Summarize",
+      "description": "Summarize URLs or files with the summarize CLI (web, PDFs, images, audio, YouTube).",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/summarize",
+      "downloads": 62832,
+      "stars": 295,
+      "score": 80,
+      "categories": [
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 10,
+      "slug": "agent-browser",
+      "name": "Agent Browser",
+      "description": "A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to navigate, click, type, and snapshot pages via structured commands.",
+      "version": "0.2.0",
+      "homepage": "https://clawhub.ai/agent-browser",
+      "downloads": 58645,
+      "stars": 304,
+      "score": 80,
+      "categories": [
+        "AI增强",
+        "浏览器自动化"
+      ]
+    },
+    {
+      "rank": 11,
+      "slug": "api-gateway",
+      "name": "API Gateway",
+      "description": "Connect to 100+ APIs (Google Workspace, Microsoft 365, GitHub, Notion, Slack, Airtable, HubSpot, etc.) with managed OAuth. Use this skill when users want to...",
+      "version": "1.0.54",
+      "homepage": "https://clawhub.ai/api-gateway",
+      "downloads": 30376,
+      "stars": 141,
+      "score": 65,
+      "categories": [
+        "办公协同",
+        "搜索研究",
+        "AI增强",
+        "DevOps"
+      ]
+    },
+    {
+      "rank": 12,
+      "slug": "weather",
+      "name": "Weather",
+      "description": "Get current weather and forecasts (no API key required).",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/weather",
+      "downloads": 49676,
+      "stars": 170,
+      "score": 60,
+      "categories": [
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 13,
+      "slug": "polymarketodds",
+      "name": "Polymarket",
+      "description": "Query Polymarket prediction markets - check odds, trending markets, search events, track prices and momentum. Includes watchlist alerts, resolution calendar,...",
+      "version": "1.0.4",
+      "homepage": "https://clawhub.ai/polymarketodds",
+      "downloads": 48076,
+      "stars": 115,
+      "score": 60,
+      "categories": [
+        "办公协同",
+        "搜索研究"
+      ]
+    },
+    {
+      "rank": 14,
+      "slug": "notion",
+      "name": "Notion",
+      "description": "Notion API for creating and managing pages, databases, and blocks.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/notion",
+      "downloads": 33926,
+      "stars": 127,
+      "score": 60,
+      "categories": [
+        "办公协同"
+      ]
+    },
+    {
+      "rank": 15,
+      "slug": "nano-pdf",
+      "name": "Nano Pdf",
+      "description": "Edit PDFs with natural-language instructions using the nano-pdf CLI.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/nano-pdf",
+      "downloads": 31529,
+      "stars": 76,
+      "score": 60,
+      "categories": [
+        "AI增强",
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 16,
+      "slug": "nano-banana-pro",
+      "name": "Nano Banana Pro",
+      "description": "Generate/edit images with Nano Banana Pro (Gemini 3 Pro Image). Use for image create/modify requests incl. edits. Supports text-to-image + image-to-image; 1K/2K/4K; use --input-image.",
+      "version": "1.0.1",
+      "homepage": "https://clawhub.ai/nano-banana-pro",
+      "downloads": 30600,
+      "stars": 136,
+      "score": 60,
+      "categories": [
+        "AI增强",
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 17,
+      "slug": "baidu-search",
+      "name": "baidu web search",
+      "description": "Search the web using Baidu AI Search Engine (BDSE). Use for live information, documentation, or research topics.",
+      "version": "1.1.0",
+      "homepage": "https://clawhub.ai/baidu-search",
+      "downloads": 18974,
+      "stars": 35,
+      "score": 35,
+      "categories": [
+        "中国app相关",
+        "办公协同",
+        "搜索研究",
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 18,
+      "slug": "larry",
+      "name": "Larry",
+      "description": "Automate TikTok slideshow marketing for any app or product. Researches competitors, generates AI images, adds text overlays, posts via Postiz, tracks analyti...",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/larry",
+      "downloads": 6670,
+      "stars": 97,
+      "score": 35,
+      "categories": [
+        "中国app相关",
+        "搜索研究",
+        "AI增强",
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 19,
+      "slug": "ai-ppt-generator",
+      "name": "Ai Ppt Generator",
+      "description": "The awesome PPT format generation tool provided by baidu.",
+      "version": "1.1.2",
+      "homepage": "https://clawhub.ai/ai-ppt-generator",
+      "downloads": 9146,
+      "stars": 8,
+      "score": 10,
+      "categories": [
+        "中国app相关",
+        "搜索研究",
+        "AI增强",
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 20,
+      "slug": "mcporter",
+      "name": "Mcporter",
+      "description": "Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/mcporter",
+      "downloads": 25605,
+      "stars": 75,
+      "score": 85,
+      "categories": [
+        "其他"
+      ]
+    },
+    {
+      "rank": 21,
+      "slug": "self-improving-agent",
+      "name": "self-improving-agent",
+      "description": "Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Clau...",
+      "version": "1.0.11",
+      "homepage": "https://clawhub.ai/self-improving-agent",
+      "downloads": 81094,
+      "stars": 958,
+      "score": 80,
+      "categories": [
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 22,
+      "slug": "find-skills",
+      "name": "Find Skills",
+      "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.",
+      "version": "0.1.0",
+      "homepage": "https://clawhub.ai/find-skills",
+      "downloads": 66562,
+      "stars": 283,
+      "score": 80,
+      "categories": [
+        "其他"
+      ]
+    },
+    {
+      "rank": 23,
+      "slug": "proactive-agent",
+      "name": "Proactive Agent",
+      "description": "Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve. Now with WAL Protocol, Working Buffer, Autonomous Crons, and battle-tested patterns. Part of the Hal Stack 🦞",
+      "version": "3.1.0",
+      "homepage": "https://clawhub.ai/proactive-agent",
+      "downloads": 46791,
+      "stars": 307,
+      "score": 60,
+      "categories": [
+        "AI增强",
+        "DevOps"
+      ]
+    },
+    {
+      "rank": 24,
+      "slug": "obsidian",
+      "name": "Obsidian",
+      "description": "Work with Obsidian vaults (plain Markdown notes) and automate via obsidian-cli.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/obsidian",
+      "downloads": 29140,
+      "stars": 115,
+      "score": 60,
+      "categories": [
+        "AI增强",
+        "知识管理"
+      ]
+    },
+    {
+      "rank": 25,
+      "slug": "humanizer",
+      "name": "Humanizer",
+      "description": "Remove signs of AI-generated writing from text. Use when editing or reviewing\ntext to make it sound more natural and human-written. Based on Wikipedia's\ncomprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including:\ninflated symbolism, promotional language, superficial -ing analyses, vague\nattributions, em dash overuse, rule of three, AI vocabulary words, negative\nparallelisms, and excessive conjunctive phrases.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/humanizer",
+      "downloads": 27214,
+      "stars": 251,
+      "score": 60,
+      "categories": [
+        "AI增强",
+        "DevOps",
+        "知识管理"
+      ]
+    },
+    {
+      "rank": 26,
+      "slug": "free-ride",
+      "name": "Free Ride - Unlimited free AI",
+      "description": "Manages free AI models from OpenRouter for OpenClaw. Automatically ranks models by quality, configures fallbacks for rate-limit handling, and updates opencla...",
+      "version": "1.0.4",
+      "homepage": "https://clawhub.ai/free-ride",
+      "downloads": 25513,
+      "stars": 179,
+      "score": 60,
+      "categories": [
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 27,
+      "slug": "brave-search",
+      "name": "Brave Search",
+      "description": "Web search and content extraction via Brave Search API. Use for searching documentation, facts, or any web content. Lightweight, no browser required.",
+      "version": "1.0.1",
+      "homepage": "https://clawhub.ai/brave-search",
+      "downloads": 24006,
+      "stars": 107,
+      "score": 60,
+      "categories": [
+        "办公协同",
+        "搜索研究",
+        "浏览器自动化"
+      ]
+    },
+    {
+      "rank": 28,
+      "slug": "byterover",
+      "name": "ByteRover",
+      "description": "Manages project knowledge using ByteRover context tree. Provides two operations: query (retrieve knowledge) and curate (store knowledge). Invoke when user requests information lookup, pattern discovery, or knowledge persistence. Developed by ByteRover Inc. (https://byterover.dev/)",
+      "version": "1.2.2",
+      "homepage": "https://clawhub.ai/byterover",
+      "downloads": 22967,
+      "stars": 70,
+      "score": 60,
+      "categories": [
+        "知识管理"
+      ]
+    },
+    {
+      "rank": 29,
+      "slug": "auto-updater",
+      "name": "Auto-Updater Skill",
+      "description": "Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them, and messages the user with a summary of what changed.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/auto-updater",
+      "downloads": 22942,
+      "stars": 162,
+      "score": 60,
+      "categories": [
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 30,
+      "slug": "skill-creator",
+      "name": "Skill Creator",
+      "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+      "version": "0.1.0",
+      "homepage": "https://clawhub.ai/skill-creator",
+      "downloads": 20951,
+      "stars": 74,
+      "score": 60,
+      "categories": [
+        "AI增强",
+        "DevOps",
+        "知识管理"
+      ]
+    },
+    {
+      "rank": 31,
+      "slug": "clawddocs",
+      "name": "Clawdbot Documentation Expert",
+      "description": "Clawdbot documentation expert with decision tree navigation, search scripts, doc fetching, version tracking, and config snippets for all Clawdbot features",
+      "version": "1.2.2",
+      "homepage": "https://clawhub.ai/clawddocs",
+      "downloads": 20781,
+      "stars": 207,
+      "score": 60,
+      "categories": [
+        "办公协同",
+        "搜索研究",
+        "DevOps"
+      ]
+    },
+    {
+      "rank": 32,
+      "slug": "youtube-watcher",
+      "name": "YouTube Watcher",
+      "description": "Fetch and read transcripts from YouTube videos. Use when you need to summarize a video, answer questions about its content, or extract information from it.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/youtube-watcher",
+      "downloads": 20451,
+      "stars": 154,
+      "score": 60,
+      "categories": [
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 33,
+      "slug": "stock-analysis",
+      "name": "Stock Analysis",
+      "description": "Analyze stocks and cryptocurrencies using Yahoo Finance data. Supports portfolio management, watchlists with alerts, dividend analysis, 8-dimension stock scoring, viral trend detection (Hot Scanner), and rumor/early signal detection. Use for stock analysis, portfolio tracking, earnings reactions, crypto monitoring, trending stocks, or finding rumors before they hit mainstream.",
+      "version": "6.2.0",
+      "homepage": "https://clawhub.ai/stock-analysis",
+      "downloads": 20191,
+      "stars": 106,
+      "score": 60,
+      "categories": [
+        "AI增强",
+        "DevOps",
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 34,
+      "slug": "youtube-api-skill",
+      "name": "YouTube",
+      "description": "YouTube Data API integration with managed OAuth. Search videos, manage playlists, access channel data, and interact with comments. Use this skill when users want to interact with YouTube. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+      "version": "1.0.3",
+      "homepage": "https://clawhub.ai/youtube-api-skill",
+      "downloads": 20171,
+      "stars": 95,
+      "score": 60,
+      "categories": [
+        "搜索研究",
+        "AI增强",
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 35,
+      "slug": "slack",
+      "name": "Slack",
+      "description": "Use when you need to control Slack from Clawdbot via the slack tool, including reacting to messages or pinning/unpinning items in Slack channels or DMs.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/slack",
+      "downloads": 19728,
+      "stars": 77,
+      "score": 60,
+      "categories": [
+        "办公协同"
+      ]
+    },
+    {
+      "rank": 36,
+      "slug": "frontend-design",
+      "name": "Frontend Design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/frontend-design",
+      "downloads": 19293,
+      "stars": 153,
+      "score": 60,
+      "categories": [
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 37,
+      "slug": "elite-longterm-memory",
+      "name": "Elite Longterm Memory",
+      "description": "Ultimate AI agent memory system for Cursor, Claude, ChatGPT & Copilot. WAL protocol + vector search + git-notes + cloud backup. Never lose context again. Vibe-coding ready.",
+      "version": "1.2.3",
+      "homepage": "https://clawhub.ai/elite-longterm-memory",
+      "downloads": 18609,
+      "stars": 82,
+      "score": 60,
+      "categories": [
+        "搜索研究",
+        "AI增强",
+        "DevOps",
+        "知识管理"
+      ]
+    },
+    {
+      "rank": 38,
+      "slug": "model-usage",
+      "name": "Model Usage",
+      "description": "Use CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trigger when asked for model-level usage/cost data from codexbar, or when you need a scriptable per-model summary from codexbar cost JSON.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/model-usage",
+      "downloads": 18457,
+      "stars": 61,
+      "score": 60,
+      "categories": [
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 39,
+      "slug": "automation-workflows",
+      "name": "Automation Workflows",
+      "description": "Design and implement automation workflows to save time and scale operations as a solopreneur. Use when identifying repetitive tasks to automate, building workflows across tools, setting up triggers and actions, or optimizing existing automations. Covers automation opportunity identification, workflow design, tool selection (Zapier, Make, n8n), testing, and maintenance. Trigger on \"automate\", \"automation\", \"workflow automation\", \"save time\", \"reduce manual work\", \"automate my business\", \"no-code automation\".",
+      "version": "0.1.0",
+      "homepage": "https://clawhub.ai/automation-workflows",
+      "downloads": 18246,
+      "stars": 73,
+      "score": 60,
+      "categories": [
+        "AI增强",
+        "浏览器自动化"
+      ]
+    },
+    {
+      "rank": 40,
+      "slug": "trello",
+      "name": "Trello",
+      "description": "Manage Trello boards, lists, and cards via the Trello REST API.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/trello",
+      "downloads": 17478,
+      "stars": 83,
+      "score": 60,
+      "categories": [
+        "办公协同"
+      ]
+    },
+    {
+      "rank": 41,
+      "slug": "moltguard",
+      "name": "MoltGuard - OpenClaw Security Plugin by OpenGuardrails",
+      "description": "MoltGuard — runtime security plugin for OpenClaw agents by OpenGuardrails. Helps users install, register, activate, and check the status of MoltGuard. Use wh...",
+      "version": "6.6.17",
+      "homepage": "https://clawhub.ai/moltguard",
+      "downloads": 13065,
+      "stars": 54,
+      "score": 60,
+      "categories": [
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 42,
+      "slug": "openclaw-github-assistant",
+      "name": "OpenClaw GitHub Assistant",
+      "description": "Query and manage GitHub repositories - list repos, check CI status, create issues, search repos, and view recent activity.",
+      "version": "2.0.1",
+      "homepage": "https://clawhub.ai/openclaw-github-assistant",
+      "downloads": 4153,
+      "stars": 0,
+      "score": 40,
+      "categories": [
+        "搜索研究",
+        "DevOps"
+      ]
+    },
+    {
+      "rank": 43,
+      "slug": "sonoscli",
+      "name": "Sonoscli",
+      "description": "Control Sonos speakers (discover/status/play/volume/group).",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/sonoscli",
+      "downloads": 43700,
+      "stars": 29,
+      "score": 35,
+      "categories": [
+        "其他"
+      ]
+    },
+    {
+      "rank": 44,
+      "slug": "himalaya",
+      "name": "Himalaya",
+      "description": "CLI to manage emails via IMAP/SMTP. Use `himalaya` to list, read, write, reply, forward, search, and organize emails from the terminal. Supports multiple accounts and message composition with MML (MIME Meta Language).",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/himalaya",
+      "downloads": 20788,
+      "stars": 37,
+      "score": 35,
+      "categories": [
+        "搜索研究",
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 45,
+      "slug": "lnbits-with-qrcode",
+      "name": "LNBits Wallet wtih QR Code",
+      "description": "Manage LNbits Lightning Wallet (Balance, Pay, Invoice)",
+      "version": "1.0.2",
+      "homepage": "https://clawhub.ai/lnbits-with-qrcode",
+      "downloads": 19078,
+      "stars": 3,
+      "score": 35,
+      "categories": [
+        "其他"
+      ]
+    },
+    {
+      "rank": 46,
+      "slug": "gmail",
+      "name": "Gmail",
+      "description": "Gmail API integration with managed OAuth. Read, send, and manage emails, threads, labels, and drafts. Use this skill when users want to interact with Gmail. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+      "version": "1.0.6",
+      "homepage": "https://clawhub.ai/gmail",
+      "downloads": 18937,
+      "stars": 48,
+      "score": 35,
+      "categories": [
+        "办公协同",
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 47,
+      "slug": "blogwatcher",
+      "name": "Blogwatcher",
+      "description": "Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/blogwatcher",
+      "downloads": 18175,
+      "stars": 25,
+      "score": 35,
+      "categories": [
+        "搜索研究"
+      ]
+    },
+    {
+      "rank": 48,
+      "slug": "video-frames",
+      "name": "Video Frames",
+      "description": "Extract frames or short clips from videos using ffmpeg.",
+      "version": "1.0.0",
+      "homepage": "https://clawhub.ai/video-frames",
+      "downloads": 17634,
+      "stars": 49,
+      "score": 35,
+      "categories": [
+        "多媒体/垂直"
+      ]
+    },
+    {
+      "rank": 49,
+      "slug": "outlook-api",
+      "name": "Outlook",
+      "description": "Microsoft Outlook API integration with managed OAuth. Read, send, and manage emails, folders, calendar events, and contacts via Microsoft Graph. Use this skill when users want to interact with Outlook. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+      "version": "1.0.3",
+      "homepage": "https://clawhub.ai/outlook-api",
+      "downloads": 17505,
+      "stars": 25,
+      "score": 35,
+      "categories": [
+        "办公协同",
+        "AI增强"
+      ]
+    },
+    {
+      "rank": 50,
+      "slug": "stripe-api",
+      "name": "Stripe",
+      "description": "Stripe API integration with managed OAuth. Manage customers, subscriptions, invoices, products, prices, and payments.\nUse this skill when users want to process payments, manage billing, or handle subscriptions with Stripe.\nFor other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\nRequires network access and valid Maton API key.",
+      "version": "1.0.8",
+      "homepage": "https://clawhub.ai/stripe-api",
+      "downloads": 17320,
+      "stars": 22,
+      "score": 35,
+      "categories": [
+        "AI增强"
+      ]
+    }
+  ]
+}

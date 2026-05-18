@@ -6,7 +6,7 @@ import os
 
 # 1. 配置监控参数
 KEYWORDS = ["RDK", "X3", "X5", "S100", "TROS"]
-PAIN_POINT_SUFFIXES = ["报错", "失败", "教程", "坑", "怎么用"]
+PAIN_POINT_SUFFIXES = ["报错", "安装失败", "无法开机", "教程", "坑", "怎么用"]
 # 平台配置：(platform_name, command_subgroup, supports_keyword_search)
 PLATFORM_CONFIGS = [
     ("zhihu", "search", True),
@@ -17,8 +17,8 @@ PLATFORM_CONFIGS = [
 ]
 
 TIMESTAMP = datetime.now().strftime("%Y-%m-%d")
-OUTPUT_FILE = "horizon_keyword_monitor.csv"
-PAIN_POINTS_FILE = "horizon_pain_points.csv"
+OUTPUT_FILE = "d_robotics_keyword_monitor.csv"
+PAIN_POINTS_FILE = "d_robotics_pain_points.csv"
 
 def run_opencli(site, cmd_name, *args, limit=10):
     try:

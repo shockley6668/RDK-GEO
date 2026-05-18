@@ -1,0 +1,154 @@
+date,keyword,suffix,platform,title,url,excerpt
+2026-05-18,RDK,报错,zhihu,地瓜机器人RDK X5使用测试,https://zhuanlan.zhihu.com/p/2038620274833273760,
+2026-05-18,RDK,报错,zhihu,RTK网络模式不固定，出现单点解、差分或浮点的原因及解决办法,https://zhuanlan.zhihu.com/p/501045144,
+2026-05-18,RDK,报错,zhihu,犀牛打印出现RDK是什么原因?,https://www.zhihu.com/question/388447775/answer/1295750638,
+2026-05-18,RDK,报错,zhihu,地瓜机器人RDK S100 系统烧录 初学者避坑指南,https://zhuanlan.zhihu.com/p/1943983530808940050,
+2026-05-18,RDK,报错,zhihu,2022年1月-Win10 Anaconda下载安装RDKit并在Jupyter内成功使用的一些小心得和弯路,https://zhuanlan.zhihu.com/p/455633270,
+2026-05-18,RDK,报错,google,8.3 应用开发、编译与示例| RDK DOC,https://developer.d-robotics.cc/rdk_doc/FAQ/applications_and_examples/,A: 如果浏览器无法打开RDK上托管的WEB页面，可能的原因如下：. Nginx服务冲突或未正确启动(针对某些依赖Nginx的WEB示例)：. 问题原因： 如果RDK板卡上 ...
+2026-05-18,RDK,报错,google,5.1.1 环境准备| RDK DOC,https://d-robotics.github.io/rdk_doc/Robot_development/quick_start/preparation,如果 sudo apt update 命令执行失败或报错，请查看常见问题章节的 Q10: apt update 命令执行失败或报错如何处理？ 解决。 系统配置​. 镜像成功烧写后 ...
+2026-05-18,RDK,报错,google,GPU not working (llvmpipe) on RDK X5,https://github.com/D-Robotics/x5-rdk-gen/issues/32,RDK X5 GPU 无法使用（llvmpipe）. 描述. 在 RDK X5（Ubuntu 22.04）上，GPU 未生效。 glxinfo 显示为 llvmpipe（CPU 渲染）。
+2026-05-18,RDK,报错,google,8. 常见问题| RDK DOC - 地瓜机器人,https://developer.d-robotics.cc/rdk_doc/FAQ/,本节主要解答与在RDK平台上安装/使用第三方库、编译应用程序、运行官方示例以及相关问题。 📄️ 8.4 多媒体 ...
+2026-05-18,RDK,报错,google,RDK problem in Print - Rhino for Windows - McNeel Forum,https://discourse.mcneel.com/t/rdk-problem-in-print/199156,
+2026-05-18,RDK,安装失败,zhihu,遇到软件反复安装失败或报错，有哪些通用的排查思路和解决办法？,https://www.zhihu.com/question/2023000188835383260/answer/2023132059476980668,
+2026-05-18,RDK,安装失败,zhihu,百度人工智能平台AI Studio在化学中的应用——RDKit安装及使用,https://zhuanlan.zhihu.com/p/363227148,
+2026-05-18,RDK,安装失败,zhihu,你最高光的时刻是什么时候？,https://www.zhihu.com/question/639104851/answer/3446150974,
+2026-05-18,RDK,安装失败,google,5.4.1 SLAM建图| RDK DOC - 地瓜机器人,https://developer.d-robotics.cc/rdk_doc/Robot_development/apps/slam/,本小节介绍如何使用RDK运行SLAM算法，并使用PC观察建图效果。 PC端启动仿真环境： ... 如果启动失败，并且报错 [ERROR] [gzclient-2]: process has died ，请执行命令 source / ...
+2026-05-18,RDK,安装失败,google,D-Robotics RDK套件,https://github.com/D-Robotics/rdk_doc/blob/main/docs/RDK.md,ROS 组件修复： 修复了MIPI Cam 和算法模块ros component so 安装路径错误导致运行时加载失败的问题。 hobot_codec 优化： 优化了图像编解码模块配置，删除了无效参数，并新增 ...
+2026-05-18,RDK,安装失败,google,【教程】RDK X5闪连RDK Studio教程以及相关问题,http://new.guyuehome.com/wap/detail?id=1845443441566265346,4、烧写弹出“安装时出错” ... 一般是由于未完全加载RDK相关资源，多点击几次'OK'按键即可。如果是多次点击仍然未能解决，可尝试重启软件或者重新安装软件。
+2026-05-18,RDK,安装失败,google,RDK-X3-Robot配置网络连接出错 - 火山引擎ADG 社区,https://adg.csdn.net/6970a042437a6b40336af804.html,"May 3, 2025 — 组装好的RDK-X3-Robot组网，官方自带系统开机时自动发送热点，电脑连接后就可以SSH登录开发板。但是不能联网，我想要在同一路由器下组成局域网。"
+2026-05-18,RDK,安装失败,google,hobot_tts fails to work correctly on RDK X5 (Can't find ...,https://github.com/D-Robotics/hobot_tts/issues/2,
+2026-05-18,RDK,无法开机,zhihu,Windows cmd chkdsk运行后电脑黑屏且无法开机？,https://www.zhihu.com/question/1984760826524107334/answer/1985272403123794715,
+2026-05-18,RDK,无法开机,zhihu,电脑开机是这种情况，一会能自动进入吗还?,https://www.zhihu.com/question/11986455542/answer/100925113067,
+2026-05-18,RDK,无法开机,zhihu,开发板-RDK X5使用,https://zhuanlan.zhihu.com/p/1967547369483662856,
+2026-05-18,RDK,无法开机,zhihu,无法开机（无引导）,https://zhuanlan.zhihu.com/p/78573718,
+2026-05-18,RDK,无法开机,zhihu,服务器无法开机怎么办？是什么原因,https://zhuanlan.zhihu.com/p/704092269,
+2026-05-18,RDK,无法开机,google,根据要求安装驱动，安装之后rdk_x5 开发板无法启动#4,https://github.com/D-Robotics/rdk_imu/issues/4,根据要求安装驱动，安装之后rdk_x5 开发板无法启动，麻烦帮忙解决问题。 我根据这个教程操作，执行 dpkg -i hobot-*.deb
+2026-05-18,RDK,无法开机,google,D-Robotics RDK套件| RDK DOC,https://developer.d-robotics.cc/rdk_doc/,RDK X5​. 注意事项：. 设备出厂说明设备出厂时已预装匹配的最新版miniboot 固件，为保障硬件兼容性，严禁降级刷入旧版本固件；降级操作可能导致设备无法启动。 固件升级 ...
+2026-05-18,RDK,无法开机,google,古月居- ROS机器人知识分享社区,https://www.guyuehome.com/wap/interlocution?id=1826932471168708609,新问题. RDK x3无法启动系统. 187****1695. 0. 288. 2025-01-22发布 · 新问题. RDK X3 及origincar控制板使用一天后无法启动和连接. 文无. 0. 1173. 2024-05-16发布. 有 ...
+2026-05-18,RDK,无法开机,google,地平线旭日X5开发板--系统烧录后启动异常原创,https://blog.csdn.net/bingdund/article/details/143359891,镜像文件名：rdk-x5-ubuntu22-preinstalled-desktop-3.0.1-beta-arm64. 复现概率：稳定，反复烧录系统后依旧出现. 并且RDK Studio无法连接X5. 补充：镜像 ...
+2026-05-18,RDK,教程,zhihu,学习 RDKit 套件系列教程（一）：入门指南,https://zhuanlan.zhihu.com/p/7027997646,
+2026-05-18,RDK,教程,zhihu,一名大模型算法工程师的机器人开发之路（一）——地瓜机器人RDK X5 开发板测评,https://zhuanlan.zhihu.com/p/1902399027,
+2026-05-18,RDK,教程,zhihu,RDKit|新手入门,https://zhuanlan.zhihu.com/p/1942638671456104968,
+2026-05-18,RDK,教程,zhihu,RDK X5测评报告—创新性与实用性的全新结合,https://zhuanlan.zhihu.com/p/1484121726,
+2026-05-18,RDK,教程,google,RDK X5超新手入门教程：从系统烧录到YOLO 物体识别,https://github.com/datawhalechina/every-embodied/blob/main/03-%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A1%AC%E4%BB%B6%E3%80%81lerobot%E5%8F%8A%E5%9C%B0%E7%93%9CRDK-X5%E5%BC%80%E5%8F%91%E6%9D%BF%E6%8E%A7%E5%88%B6%E6%95%99%E7%A8%8B/01RDKX5%E8%B6%85%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md,
+2026-05-18,RDK,教程,google,RDK X5超新手入门教程：从系统烧录到yolov5物体识别,https://damodev.csdn.net/68634eebb93e2f41796202c7.html,RDK X5超新手入门教程：从系统烧录到yolov5物体识别-RDKX5地瓜机器人 · weixin_51636531 · 前言： · 前期准备 · 系统安装 · 启动系统 · 配置网络 · 可选：SSH ...
+2026-05-18,RDK,教程,google,线上课程-RDK X5开发板,https://www.yahboom.com/study/rdk_x5,RDK X5开发板. 1、RDK X5官方资料 2、无法开机解决方案 3、快速上手 4、Linux内存查询 · RDK X5开发板简介 · RDK X5基础设置 · 基础开发课程 · ROS扩展板 · T-MINI PLUS 雷达.
+2026-05-18,RDK,教程,google,开始- robodk文档,https://robodk.com.cn/doc/cn/Getting-Started.html,
+2026-05-18,RDK,坑,zhihu,Kards回坑天梯经验笔记,https://zhuanlan.zhihu.com/p/1898997285792223390,
+2026-05-18,RDK,坑,zhihu,树莓派、RDK X3/X5新手如何选择？,https://www.zhihu.com/question/1449888407/answer/59111222659,
+2026-05-18,RDK,坑,zhihu,10亿！今年最大机器人芯片融资诞生,https://zhuanlan.zhihu.com/p/2025235512244416849,
+2026-05-18,RDK,坑,zhihu,你是否购买了地瓜机器人的RDK X5，感觉怎么样？,https://www.zhihu.com/question/839515618/answer/4973176459,
+2026-05-18,RDK,坑,google,地瓜派RDK X5部署YOLOv11n避坑指南：从Softmax算子 ...,https://blog.csdn.net/gold/article/details/149301216,
+2026-05-18,RDK,坑,google,学妹吵着要学的RDKS100模型量化及部署，你确定不学？,https://www.cnblogs.com/SkyXZ/p/18981362,
+2026-05-18,RDK,坑,google,地平线RDK-X5实战：从零部署YOLOv5模型的完整避坑指南（ ...,https://blog.csdn.net/a3b4c5/article/details/152902082,1. 地平线RDK-X5开发环境深度配置与避坑. 拿到RDK-X5开发板后，第一步是搭建一个稳定、高效的开发环境。这个过程看似基础，却直接决定了后续所有步骤的 ...
+2026-05-18,RDK,坑,google,04. 机器人执行器：原理、选型与控制,https://github.com/datawhalechina/every-embodied/blob/main/03-%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A1%AC%E4%BB%B6%E3%80%81lerobot%E5%8F%8A%E5%9C%B0%E7%93%9CRDK-X5%E5%BC%80%E5%8F%91%E6%9D%BF%E6%8E%A7%E5%88%B6%E6%95%99%E7%A8%8B/05%E6%89%A7%E8%A1%8C%E5%99%A8%E5%8E%9F%E7%90%86%E4%B8%8E%E9%80%89%E5%9E%8B.md,
+2026-05-18,RDK,怎么用,zhihu,KDJ 真正有用的地方，可能和你想的不一样,https://zhuanlan.zhihu.com/p/2038657312131397445,
+2026-05-18,RDK,怎么用,google,1. 快速开始| RDK DOC,https://developer.d-robotics.cc/rdk_doc/Quick_start/,本章节旨在向需要通过个人电脑(PC)远程访问开发板的用户介绍如何通过串口、RDK Studio、网络(VNC、SSH)方式进行远程登录。 🗃️ 1.5 显示屏使用. 1 个项目 · 📄️ 1.6 算法体验.
+2026-05-18,RDK,怎么用,google,地瓜机器人RDK Studio使用教程- SkyXZ,https://www.cnblogs.com/SkyXZ/p/18668535,示例程序一键运行：RDK Studio内置地瓜机器人官方的NodeHub，动动手指即可实现官方示例程序的运行展示，不再需要繁杂的步骤就能体验RDK非凡性能.
+2026-05-18,X3,报错,zhihu,宝马X3显示传动系统有问题是怎么回事?,https://www.zhihu.com/question/615350268/answer/3147656928,
+2026-05-18,X3,报错,zhihu,X错误请重试怎么解决？2026最新修复X登录时出错与Attestation Denied指南,https://zhuanlan.zhihu.com/p/2010752434948027143,
+2026-05-18,X3,报错,zhihu,【硬核实战】飞腾 D2000 随机死机排查：从内核空指针报错到电源纹波整改全记录,https://zhuanlan.zhihu.com/p/2004624963987080813,
+2026-05-18,X3,报错,zhihu,一年半iX3车主，谈一下这辆杂牌电动车,https://zhuanlan.zhihu.com/p/670468143,
+2026-05-18,X3,报错,zhihu,作为一名普通的程序员，需要怎么给自己找一条后路呢？,https://www.zhihu.com/question/544744660/answer/2646799218,
+2026-05-18,X3,报错,google,影石Insta360 x3 问题排查-X系列：无法连接手机Insta360 App,http://onlinemanual.insta360.com/x3/zh-cn/troubleshooting/connection/app-connection,检查基础连接方式 · 查看相机Wi-Fi 设置页面，确认是否有报错。 · 从相机屏幕顶部下滑，进入“快捷菜单”，在“设置⚙” 中开启Wi-Fi，同时确保手机Wi-Fi、蓝牙均已开启。 · 打开 ...
+2026-05-18,X3,报错,google,[KB225924850098947功能解说] 报错：“连接到服务器失败：X3 ...,http://www.sagesoft.cn/bbs/viewthread.php?tid=13652,* 本文由赛捷软件（上海）有限公司翻译完成，未经授权不得转载。如需转载，请先联系相应版块的版主取得授权。 ... 1. 请检查SQL Server服务是否运行，或者应用服务器是否可以 ...
+2026-05-18,X3,报错,google,自FW/App更新组合以来，X3持续错误代码6102 - 基本上完全 ...,https://www.reddit.com/r/SegwayNavimow/comments/1kbpslr/x3_constant_error_code_6102_since_the_fwapp/?tl=zh-hans,Reddit · r/SegwayNavimow30+ comments  ·  1 year ago
+2026-05-18,X3,报错,google,An error `undefined is not an object (evaluating 'x3.data.id') ...,https://github.com/anomalyco/opencode/issues/10561,"Jan 25, 2026 — Question When I run opencode on macOS, there is an error : undefined is not an object (evaluating 'x3.data.id') If I use sudo opencode It ..."
+2026-05-18,X3,报错,google,[KB 92600功能解说] 报错：“已禁止或禁用X3解决方案上的所有X3 ...,http://114.215.210.180/bbs/archiver/tid-11428.html,6. 向下滚动，寻找X3solution，双击runtimes展开。 7. 检验已禁止或禁用是否设置为了“true”。如果是，右击任意项目，选择“编辑文档”。 8. 手动输入“false”（不加引号）来 ...
+2026-05-18,X3,安装失败,google,X3固件更新: r/SegwayNavimow,https://www.reddit.com/r/SegwayNavimow/comments/1klnszv/x3_firmware_update/?tl=zh-hans,Reddit · r/SegwayNavimow10+ comments  ·  1 year ago
+2026-05-18,X3,安装失败,google,X系列：相机固件升级失败,http://onlinemanual.insta360.com/x3/zh-cn/troubleshooting/firmware-update-issue/firmware-update-failed,固件包安装过程中失败（相机卡在升级界面/ 死机）. 请尝试强制重启相机或拔下电池再重装后开机，查看相机是否能进入升级状态。 若不能进入升级状态，请尝试用相机重新 ...
+2026-05-18,X3,安装失败,google,Windows Server 2019安装Sage X3 SEI的BILicense ...,https://www.volcengine.com/article/83531,结果刚启动安装就直接失败了，试过用默认配置，也手动修改过数据库路径、更换过不同的SQL登录账号，问题完全没得到解决。 具体的报错信息如下：. Error 27506.
+2026-05-18,X3,安装失败,google,如何完全卸载并重新安装X3-120 USB驱动程序,https://connect.tobii.com/s/article/%E5%A6%82%E4%BD%95%E5%AE%8C%E5%85%A8%E5%8D%B8%E8%BD%BD%E5%B9%B6%E9%87%8D%E6%96%B0%E5%AE%89%E8%A3%85X3-120-USB%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F?language=zh_CN,3.重新启动计算机。 4.将X3-120连接到计算机。 5.下载并安装最新版本的Tobii Pro Eye Tracker Manager。 6.启动Eye Tracker Manager ...
+2026-05-18,X3,安装失败,google,Installation · MHSanaei/3x-ui Wiki,https://github.com/MHSanaei/3x-ui/wiki/Installation,
+2026-05-18,X3,无法开机,zhihu,素士X3电动牙刷无法开机，拆机发现导致故障的原因，已无法修理伤心……,https://zhuanlan.zhihu.com/p/125747205,
+2026-05-18,X3,无法开机,zhihu,宝马X3未满一年无法启动，4S店和消费者各执一词,https://zhuanlan.zhihu.com/p/535888503,
+2026-05-18,X3,无法开机,zhihu,"素士X3报废,V1的三个半月体验以及开箱",https://zhuanlan.zhihu.com/p/99803212,
+2026-05-18,X3,无法开机,zhihu,笔记本无法开机是什么问题?,https://www.zhihu.com/question/583039939/answer/2885728513,
+2026-05-18,X3,无法开机,zhihu,poco x3 pro开不了机怎么办？,https://www.zhihu.com/question/618787803,
+2026-05-18,X3,无法开机,google,X系列：相机无法开机,http://onlinemanual.insta360.com/x3/zh-cn/troubleshooting/turnon/cannot-turn-on,解决方案 · 1. 使用原装数据线为相机充电20 分钟，短按电源键尝试开机。 · 2. 尝试重新插拔电池后开机；如有多块电池，可更换电池并尝试开机。 · 3. 如有读卡器，也可尝试通过 ...
+2026-05-18,X3,无法开机,google,4. X3无法开机或死机怎么办？,https://fiio.com/newsinfo/8010.html,4. X3无法开机或死机怎么办？ · 1. 用一根牙签或者其他细小的工具捅播放器复位孔进行复位。 · 2. 将机子连接到电脑USB后再根据方法1复位（注：此方法不适用于因使用不符合规格 ...
+2026-05-18,X3,无法开机,google,常见问题：Insta360 X3 相机,https://support.matterport.com/s/article/FAQ-Insta360-X3-Camera?language=zh_CN,连接电源后，如果指示灯闪烁红光，按电源按钮无法开机，请断开连接并取出电池，重新安装后再试一次；如果仍无法开机，请取出电池再试一次；如果取出电池后仍无法 ...
+2026-05-18,X3,无法开机,google,insta360 X3 无法开机，只有在充电时红灯亮,https://www.reddit.com/r/Insta360/comments/1qhbe5j/insta360_x3_it_doesnt_turn_on_only_the_red_light/?tl=zh-hans,Reddit · r/Insta3605 comments  ·  3 months ago
+2026-05-18,X3,无法开机,google,手机无法开机| 常见问题,https://www.realme.com/cn/support/kw/doc/2026439,如果手机长时间未使用或电量耗尽，可能无法立即开机。请使用原装充电器充电30分钟以上，确保电量充足后，再尝试长按电源键启动。 2. 检查按键状态.
+2026-05-18,X3,教程,zhihu,树莓派、RDK X3/X5新手如何选择？,https://www.zhihu.com/question/1449888407/answer/34983886990,
+2026-05-18,X3,教程,zhihu,教你怎么用蒲公英X3把群辉NAS打造成私有云盘教程方法,https://zhuanlan.zhihu.com/p/64269475,
+2026-05-18,X3,教程,zhihu,latex3教程推荐,https://zhuanlan.zhihu.com/p/689098640,
+2026-05-18,X3,教程,zhihu,改装宝马 X3 需要掌握哪些专业知识和技能？,https://www.zhihu.com/question/637646639/answer/3353859037,
+2026-05-18,X3,教程,zhihu,宝马X3车主必备：宝马X3使用说明书电子版｜全新宝马X3用户手册｜宝马X3保养手册,https://zhuanlan.zhihu.com/p/194140964,
+2026-05-18,X3,坑,zhihu,BBA中，奔驰glc宝马X3，奥迪Q5L哪个值得入手？,https://www.zhihu.com/question/449321891/answer/1947983474,
+2026-05-18,X3,坑,zhihu,特斯拉model 3有哪些硬伤？,https://www.zhihu.com/question/366452377/answer/1979882105338097954,
+2026-05-18,X3,坑,zhihu,宝马X3怎么样？值得买吗？,https://www.zhihu.com/question/631270010/answer/2039738194019742758,
+2026-05-18,X3,坑,zhihu,宝马X3、奔驰GLC、奥迪Q5L、沃尔沃XC60哪个好？ ?,https://www.zhihu.com/question/407813855/answer/2037515815776474061,
+2026-05-18,X3,坑,zhihu,换代之后的宝马X3为什么销量如此拉胯？,https://www.zhihu.com/question/1915522847771726642/answer/2005896154840330335,
+2026-05-18,X3,怎么用,zhihu,X3工具链的使用,https://zhuanlan.zhihu.com/p/1898425671174297316,
+2026-05-18,X3,怎么用,zhihu,相见恨晚的办公神器——讯飞智能办公本X3丝滑体验,https://zhuanlan.zhihu.com/p/651804688,
+2026-05-18,X3,怎么用,zhihu,如何评价咕咚X3和X3-RE精英版运动手表？,https://www.zhihu.com/question/344544900/answer/814486871,
+2026-05-18,X3,怎么用,zhihu,2K出头拿下全钛手表，这算是赚了吗？,https://zhuanlan.zhihu.com/p/2033126222058801107,
+2026-05-18,X5,报错,zhihu,腾讯毒瘤——X5/XWeb内核的坑记录,https://zhuanlan.zhihu.com/p/51160869,
+2026-05-18,X5,报错,zhihu,宝马X5传动系统故障,https://zhuanlan.zhihu.com/p/228220357,
+2026-05-18,X5,报错,zhihu,记一次有趣的x509问题,https://zhuanlan.zhihu.com/p/648582311,
+2026-05-18,X5,安装失败,zhihu,"腾讯X5内核,反复下载安装不成功怎么办",https://zhuanlan.zhihu.com/p/679032414,
+2026-05-18,X5,安装失败,zhihu,腾讯X5内核这么多坑！？,https://www.zhihu.com/question/55826528/answer/3370918563,
+2026-05-18,X5,安装失败,zhihu,为什么手机安装应用显示安装失败?,https://www.zhihu.com/question/376083931/answer/2035720419014095551,
+2026-05-18,X5,安装失败,zhihu,Corel draw X5在win10安装不了？,https://www.zhihu.com/question/59352952/answer/169655474,
+2026-05-18,X5,安装失败,zhihu,有电脑高手可以看看这个安装失败怎么解决吗?,https://www.zhihu.com/question/13842836554/answer/117231323773,
+2026-05-18,X5,教程,zhihu,Insta360 X5 保姆级教程！手残党也能拍明白,https://zhuanlan.zhihu.com/p/1924527839555880531,
+2026-05-18,X5,教程,zhihu,从“不会拍”到“都能拍”，全靠Insta360 X5懂我的“懒”,https://zhuanlan.zhihu.com/p/1918341212366143740,
+2026-05-18,X5,教程,zhihu,全景相机还能这么玩？分享影石Insta360 X5玩法技巧！新手小白也能轻松拿捏出大片,https://zhuanlan.zhihu.com/p/1929145526550533099,
+2026-05-18,X5,教程,zhihu,用了半年学而思X5，聊聊普通家庭的真实感受,https://zhuanlan.zhihu.com/p/2037964767395062910,
+2026-05-18,X5,坑,zhihu,给你一辆宝马X5一年的使用权，多少人能养的起？,https://www.zhihu.com/question/15200614008/answer/2023487951296833163,
+2026-05-18,X5,坑,zhihu,宝马X5有哪些优缺点？,https://www.zhihu.com/question/341630204/answer/2021582680333001610,
+2026-05-18,X5,坑,zhihu,在2025年这个时间下的知乎，为什么感觉好多人都跟华为有血海深仇？,https://www.zhihu.com/question/462185324/answer/1947775807524171818,
+2026-05-18,X5,坑,zhihu,宝马X5，是否值得下决心换？,https://www.zhihu.com/question/1969058165925615253/answer/1977769999964857366,
+2026-05-18,X5,坑,zhihu,拥有一辆宝马X5是怎样一种体验？,https://www.zhihu.com/question/306089487/answer/1919332202946229216,
+2026-05-18,X5,坑,google,微信内置浏览器x5内核有哪些坑及解决方案？,http://www.zhihu.com/question/30465777/answer/48700839,
+2026-05-18,X5,坑,google,RDK X5首发上手体验！真的太帅啦！！！ - SkyXZ,https://www.cnblogs.com/SkyXZ/p/18427835,RDK X5的售价真的非常的美丽，首发这段时间还可以享受100的优惠减免，4GB的价格只要449，8GB也只要599，这个价格这个配置这个生态对比其他友商只能说Win~！
+2026-05-18,X5,坑,google,YSDK 那些坑如果你的应用之前已经接入过X5 内核,https://juejin.cn/post/6844903535033729031,如果你的应用之前已经接入过X5 内核，在接入YSDK 时可能会出现一些莫名奇妙的问题。虽然YSDK 的接入文档有说明其内置了灯塔SDK 和Bugly SDK ，但是并未提及 ...
+2026-05-18,X5,坑,google,腾讯X5内核这么多坑！？ - KnIfER 的回答,https://www.zhihu.com/question/55826528/answer/1743719540,最近实验了下X5内核的实用性，感觉然并卵！ 1.网页加载并不快 2.X5内核内存占用内存很大 3.体验不佳，首次进入很卡，还要慢慢下载数据
+2026-05-18,X5,坑,google,听了这位X5车主被坑的经历，我才发觉以前对宝马 ...,https://chejiahao.autohome.com.cn/info/2940628,我和他是在F15 X5车友群里认识的，他比我早提车几个月，后来我又仔细询问到底是怎么回事，他的大概意思就是第三方延保门槛太多，不如官方延保省心。 我的车经常用作上下班代步， ...
+2026-05-18,X5,怎么用,zhihu,宝马X5车主必备：宝马X5使用说明书电子版｜全新宝马X5用户手册｜宝马X5保养手册,https://zhuanlan.zhihu.com/p/196454523,
+2026-05-18,X5,怎么用,zhihu,“文山”“会海”终结者——思必驰AI办公本 X5系列上手体验及测评,https://zhuanlan.zhihu.com/p/1954116966953493847,
+2026-05-18,S100,报错,zhihu,怎么看待紫光存储推出的s100固态硬盘？,https://www.zhihu.com/question/317956858/answer/675037819,
+2026-05-18,S100,报错,zhihu,梵想s100Pro这个固态怎么样，掉盘严重是真的吗？,https://www.zhihu.com/question/641431139/answer/3542589201,
+2026-05-18,S100,报错,zhihu,既然底大一级压死人，为什么选择中画幅的人还是少？,https://www.zhihu.com/question/643484511/answer/3391455072,
+2026-05-18,S100,报错,zhihu,记一次 Windows 10 蓝屏修复过程,https://zhuanlan.zhihu.com/p/201110183,
+2026-05-18,S100,安装失败,zhihu,如何解决系统安装失败？,https://www.zhihu.com/question/605267972/answer/3253537660,
+2026-05-18,S100,安装失败,zhihu,电脑一直这样是怎么回事啊？一直安装失败?,https://www.zhihu.com/question/630982628/answer/3296448911,
+2026-05-18,S100,安装失败,zhihu,【常见问题（三）】系统安装过程中无法识别到硬盘，导致安装失败,https://zhuanlan.zhihu.com/p/709328058,
+2026-05-18,S100,无法开机,zhihu,为什么手机无法开机?,https://www.zhihu.com/question/603950896/answer/3052422934,
+2026-05-18,S100,无法开机,zhihu,为什么手机不能开机了?,https://www.zhihu.com/question/649985239/answer/3442930707,
+2026-05-18,S100,无法开机,zhihu,【老机升级日记】平平无奇的DELL灵越-5557,https://zhuanlan.zhihu.com/p/347324770,
+2026-05-18,S100,无法开机,zhihu,手机不能开机应该如何维修？,https://www.zhihu.com/question/562071846/answer/2889169162,
+2026-05-18,S100,教程,zhihu,自学钢琴真的很难实现吗？？？,https://www.zhihu.com/question/419458886/answer/2663637716,
+2026-05-18,S100,教程,zhihu,自学钢琴能成吗，要怎么做？,https://www.zhihu.com/question/573340855/answer/2826735055,
+2026-05-18,S100,教程,zhihu,小米剃须刀s100刀头拆解详细教程,https://zhuanlan.zhihu.com/p/192391409,
+2026-05-18,S100,教程,zhihu,千元手搓一台AI机械臂：SO-101从采购到组装全记录（硬件篇）,https://zhuanlan.zhihu.com/p/2039624573973422759,
+2026-05-18,S100,教程,zhihu,艾利和SE100怎么安装网易云 ？恳求大神发个教程 。?,https://www.zhihu.com/question/355199828/answer/1234275215,
+2026-05-18,S100,坑,zhihu,慎选！这些「小米98/100寸」电视不要买！2026年小米巨幕电视避坑指南TOP3推荐！（1月版）,https://zhuanlan.zhihu.com/p/1920879787553068072,
+2026-05-18,S100,坑,zhihu,米家电动剃须刀选哪个？ S100/S500/米家博朗电动剃须刀，可别上当了,https://zhuanlan.zhihu.com/p/458641881,
+2026-05-18,S100,坑,zhihu,211本科，最近拿到西门子sales 100的offer，担心销售岗以后发展受限，纠结要不要去?,https://www.zhihu.com/question/422939623/answer/3272815377,
+2026-05-18,S100,怎么用,zhihu,谈谈逛完wrc后对具身智能硬件架构的疑惑以及思考,https://zhuanlan.zhihu.com/p/1940456980926926911,
+2026-05-18,S100,怎么用,zhihu,不吹不黑小米家的东西到底怎么样？,https://www.zhihu.com/question/315620843/answer/1546575909,
+2026-05-18,S100,怎么用,zhihu,通用海道测量数据模型（S-100）简介（一）,https://zhuanlan.zhihu.com/p/536172666,
+2026-05-18,S100,怎么用,zhihu,米家电动剃须刀选购指南：小米电动剃须刀不同型号的差异,https://zhuanlan.zhihu.com/p/684585031,
+2026-05-18,TROS,报错,zhihu,Python traceback模块与异常返回,https://zhuanlan.zhihu.com/p/141245312,
+2026-05-18,TROS,报错,zhihu,国产操作系统很多年没有搞成为什么有人会认为鸿蒙会成功？,https://www.zhihu.com/question/661764911/answer/3574901981,
+2026-05-18,TROS,报错,zhihu,为什么 ReAct 已经不够了？从 Plan-Then-Act 到 ToT、LATS 讲透 Agent 规划三条路,https://zhuanlan.zhihu.com/p/2025507995761516929,
+2026-05-18,TROS,报错,zhihu,用 Cursor/Trae 写代码，AI 一顿改完面目全非怎么办？发现一个代码后悔药神器,https://zhuanlan.zhihu.com/p/1999635679831945993,
+2026-05-18,TROS,报错,zhihu,OpenFast笔记 常见的两个报错,https://zhuanlan.zhihu.com/p/622214253,
+2026-05-18,TROS,安装失败,zhihu,TrollInstallerDark，新巨魔安装器发布,https://zhuanlan.zhihu.com/p/2039475662940022335,
+2026-05-18,TROS,安装失败,zhihu,【最新】一直安装失败？巨魔商店2 TrollStore2 正式版安装教程！简单小白可操作~,https://zhuanlan.zhihu.com/p/670172947,
+2026-05-18,TROS,安装失败,zhihu,为什么tomcat老安装失败？,https://www.zhihu.com/question/47249260/answer/2656311709,
+2026-05-18,TROS,无法开机,zhihu,Thinkpad T440s 有时无法开机？,https://www.zhihu.com/question/24441389/answer/117061127,
+2026-05-18,TROS,无法开机,zhihu,Thinkpad T440s 有时无法开机？,https://www.zhihu.com/question/24441389/answer/144334278,
+2026-05-18,TROS,无法开机,zhihu,电脑无法开机时，有哪些有效的解决方法可以尝试呢？,https://www.zhihu.com/question/11746026943/answer/99934419553,
+2026-05-18,TROS,无法开机,zhihu,电脑突然无法开机，如何判断是哪部分出现了问题呢？,https://www.zhihu.com/question/12905287915/answer/1998038161352320150,
+2026-05-18,TROS,无法开机,zhihu,电脑开不了机了，这种要怎么处理？,https://www.zhihu.com/question/667117570/answer/3625064258,
+2026-05-18,TROS,教程,zhihu,一个很简单的交易系统。,https://zhuanlan.zhihu.com/p/2026430635,
+2026-05-18,TROS,教程,zhihu,地平线机器人开发平台系列教程| 6.TogetherROS系统配置,https://zhuanlan.zhihu.com/p/557780947,
+2026-05-18,TROS,教程,zhihu,地平线机器人开发平台系列教程| 5.TogetherROS系统安装,https://zhuanlan.zhihu.com/p/557348199,
+2026-05-18,TROS,坑,zhihu,Trae国际版的新付费计划之巨坑,https://zhuanlan.zhihu.com/p/2011329746626167658,
+2026-05-18,TROS,坑,zhihu,26-cv-01646，79店陷Korobov超现实主义版权TRO雷区！速查自救！,https://zhuanlan.zhihu.com/p/2035320795652731994,
+2026-05-18,TROS,坑,zhihu,2026 年亚马逊跨境电商的残酷真相：为什么你明明合规经营，还是会被坑到血本无归？,https://zhuanlan.zhihu.com/p/2037946116298289951,
+2026-05-18,TROS,坑,zhihu,收到 TRO 的那天，他删掉了 Listing 里一个普通单词,https://zhuanlan.zhihu.com/p/2037952906050134192,
+2026-05-18,TROS,怎么用,zhihu,一小时上手Trae：从界面布局，到一个简单的登录页面实现,https://zhuanlan.zhihu.com/p/1928818825392034634,
